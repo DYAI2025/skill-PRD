@@ -1,0 +1,3 @@
+interface:
+  display_name: "AI-Native PRD Architect"
+  short_description: "Creates agent-executable PRDs with architecture constraints, tasks, tests, guardrails, and GreenOps."
